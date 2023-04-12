@@ -65,7 +65,7 @@ function prepareProject() {
                                                 </div>
                                                 <div class="_ok-vd_zs">
                                                     <figure style="height: 250px;">
-                                                        <img src="/storage/${value.image}" />
+                                                        <img src="https://pras-dev.konsulinaja.id/storage/${value.image}" />
                                                         <div class="inner-content">
                                                             <a href="` +
                 value.link +
