@@ -19,7 +19,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', [HomeController::class, 'home']);
 
 Route::get('/login-admin', function () {
-    return view('loginPage');
+    return view('LoginPage');
 });
 
 Route::get('/admin-page', function () {
